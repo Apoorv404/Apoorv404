@@ -31,7 +31,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/ApoorvJadhav404" target="_blank" rel="noreferrer">
+  <a href="https://x.com/ApoorvJadhav" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="X" height="40" width="40" />
   </a>
 

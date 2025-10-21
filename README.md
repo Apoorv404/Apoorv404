@@ -19,9 +19,22 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
   
-  <a href="https://linkedin.com/in/apoorv-jadhav404" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apoorv-jadhav404" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/u/Apoorv404" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Apoorv404" height="30" width="40" /></a>
-  <a href="https://hackerrank.com/profile/Apoorv404" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Apoorv404" height="30" width="40" /></a>
+   <a href="https://linkedin.com/in/apoorv-jadhav404" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Apoorv404" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://hackerrank.com/profile/Apoorv404" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/ApoorvJadhav404" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="X" height="40" width="40" />
+  </a>
+
 </p>
 
 <h2 align="left">Languages and Tools:</h2>

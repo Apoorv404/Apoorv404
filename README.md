@@ -11,7 +11,7 @@
 
 - Currently working [@Cognizant](https://www.cognizant.com/) as **Programmer Analyst Trainee**
 
-- Ask me about **Python, Web Scraping, Automation, Testing**
+- Ask me about **Linux, Python, Java, Web Scraping, Automation, Testing**
 
 - Reach me at **jadhavapoorv2244@gmail.com**
 
